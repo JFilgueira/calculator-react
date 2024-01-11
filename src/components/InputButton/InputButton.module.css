@@ -1,0 +1,17 @@
+.inputButton {
+    padding: 17px;
+    height: 50px;
+    width: 50px;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    cursor: pointer;
+}
+
+@media (max-width: 425px) {
+    .inputButton {
+        font-size: 1.2em;
+    }
+}
