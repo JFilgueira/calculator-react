@@ -4,6 +4,8 @@
 * Do the basic mathematical operations: addition, substraction, multiplication and division
 * Responsive design
 
+![](https://github.com/JFilgueira/calculatorReact/issues/1#issue-2076819487)
+
 ## Getting started
 
 ### Running 
